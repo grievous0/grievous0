@@ -1,4 +1,4 @@
-<h2 align="left">Hello there👋! My name is João Vitor and I'm a Web Developer Intern, from IBM</h2>
+<h2 align="left">Hello there👋🏻! My name is João Vitor and I'm a Web Developer Intern, from IBM</h2>
 
 ###
 
